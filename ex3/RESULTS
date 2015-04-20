@@ -1,0 +1,17 @@
+** MNIST **
+The classifier corresponding to the pixel (10,15) has 0.115140 percent error
+
+
+** SPAM **
+The words that define the ten best classifiers are:
+---------------------------------------------------
+The classifier corresponding to "txt" has 0.113025 percent error
+The classifier corresponding to "call" has 0.114460 percent error
+The classifier corresponding to "free" has 0.115357 percent error
+The classifier corresponding to "claim" has 0.115895 percent error
+The classifier corresponding to "mobile" has 0.119483 percent error
+The classifier corresponding to "reply" has 0.121995 percent error
+The classifier corresponding to "now!" has 0.122174 percent error
+The classifier corresponding to "&" has 0.122174 percent error
+The classifier corresponding to "won" has 0.122533 percent error
+The classifier corresponding to "prize" has 0.124327 percent error
